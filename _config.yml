@@ -28,7 +28,7 @@ nav:
   - name:           "About"
     href:           "/about"
   - name:           "Download"
-    href:           "cropercrops.github.io"
+    href:           ""
 
 # Sass
 sass:
