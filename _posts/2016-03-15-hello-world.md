@@ -12,4 +12,4 @@ categories:
 
 > P.S каждый день несколько новых записей. 
 
-[github]: github.com
+[github]: https://github.com/
