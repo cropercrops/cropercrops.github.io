@@ -26,7 +26,7 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "about/about.md"
+    href:           "/about"
   - name:           "Download"
     href:           "cropercrops.github.io"
 
