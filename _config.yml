@@ -3,14 +3,14 @@
 # # # # # # # #
 
 # Basic
-name:               "Vorobey"
+name:               "Cropercrops"
 description:        "blog"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
 url:                "cropercrops.github.io"
-author:             "vorobey"
+author:             "cropercrops"
 twitter:
-  username:         "vorobey"
+  username:         "cropercrops"
 #facebooky
 #  app_id:           1234
 #    publisher:      1234

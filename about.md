@@ -2,14 +2,14 @@
 title: About
 permalink: /about/
 ---
-Частенько сижу [Vkontakte] и буду писать самые главные новости в [Twitter], ну и как без [instagram].
+Все новости сначала [Vkontakte],[Twitter], и только потом в [blog].
 
 Иногда буду вылаживать [link] на хорошие ресурсы. И много чего полезного. 
 
 Спасибо что читаешь мой [blog].
 
-[vkontakte]:      https://vk.com/artjom_vorobej
-[twitter]:   https://twitter.com/vorobejartjom
+[vkontakte]:      https://vk.com/cropercrops
+[twitter]:   https://twitter.com/croperscr
 [instagram]: https://www.instagram.com/artjomvorobej
 [link]: /link
 [blog]: http://cropercrops.github.io/
